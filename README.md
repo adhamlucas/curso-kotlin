@@ -1,1 +1,1 @@
-curso-kotlin
+Desenvolvendo aplicativo Mensseger
