@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "652702685181",
+    "firebase_url": "https://kotlin-mensseger.firebaseio.com",
+    "project_id": "kotlin-mensseger",
+    "storage_bucket": "kotlin-mensseger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652702685181:android:1cc5b6108f809e7d",
+        "android_client_info": {
+          "package_name": "com.example.projetinho_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkfKxPFGXSeajJ_s30DJ57DP7uAB3V4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652702685181-297dg0artvbtlh10u3gkp26kpa5ejhi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
